@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfceb60c.css",
-    "main.js": "/static/js/main.7c252ffc.js",
-    "static/js/453.805be253.chunk.js": "/static/js/453.805be253.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/tuiIconTdsLogoSubscriptionPremium.svg": "/static/media/tuiIconTdsLogoSubscriptionPremium.4872518e2715eadac3b7b2c958aa390c.svg",
-    "static/media/tuiIconTdsLogoSubscriptionProInverse.svg": "/static/media/tuiIconTdsLogoSubscriptionProInverse.c09c730f1b038350f9ce77a407046467.svg",
-    "static/media/tuiIconTdsMediumHeartOutline.svg": "/static/media/tuiIconTdsMediumHeartOutline.96c838bf470267933723d6fe4297ed82.svg",
-    "index.html": "/index.html",
-    "static/media/tuiIconTdsMediumHeartFilled.svg": "/static/media/tuiIconTdsMediumHeartFilled.70db80cdbd944453672ab2af782a5f1c.svg",
-    "static/media/tuiIconTdsMediumShare2.svg": "/static/media/tuiIconTdsMediumShare2.ecf5d9593b81adaa73592b650abcc2a7.svg",
-    "static/media/tuiIconTdsSmallQuestion.svg": "/static/media/tuiIconTdsSmallQuestion.9aa64df55256dbc02d043c872d4e1df7.svg",
-    "static/media/tuiIconTdsMediumShare.svg": "/static/media/tuiIconTdsMediumShare.b5b208983462964502028c359b8adc89.svg",
-    "static/media/tuiIconTdsSmallInfo.svg": "/static/media/tuiIconTdsSmallInfo.a7d5af6a1780305ff5d344a8af102162.svg",
-    "static/media/tuiIconTdsSmallPragmaticCross.svg": "/static/media/tuiIconTdsSmallPragmaticCross.85efa22c916be27017db774193a217aa.svg",
-    "static/media/tuiIconTdsServiceCross.svg": "/static/media/tuiIconTdsServiceCross.2525cfaf045c7630992c1663329b8e99.svg",
-    "static/media/tuiIconTdsServiceChevronLeft.svg": "/static/media/tuiIconTdsServiceChevronLeft.cb8810c117357c82b69c047656727f16.svg",
-    "static/media/tuiIconTdsSmallPragmaticPlus.svg": "/static/media/tuiIconTdsSmallPragmaticPlus.c2630e7a529b42be8826cc9f93eb6c6f.svg",
-    "main.cfceb60c.css.map": "/static/css/main.cfceb60c.css.map",
-    "main.7c252ffc.js.map": "/static/js/main.7c252ffc.js.map",
-    "453.805be253.chunk.js.map": "/static/js/453.805be253.chunk.js.map"
+    "main.css": "/react-test/static/css/main.cfceb60c.css",
+    "main.js": "/react-test/static/js/main.0de8f612.js",
+    "static/js/453.805be253.chunk.js": "/react-test/static/js/453.805be253.chunk.js",
+    "static/media/logo.svg": "/react-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/tuiIconTdsLogoSubscriptionPremium.svg": "/react-test/static/media/tuiIconTdsLogoSubscriptionPremium.4872518e2715eadac3b7b2c958aa390c.svg",
+    "static/media/tuiIconTdsLogoSubscriptionProInverse.svg": "/react-test/static/media/tuiIconTdsLogoSubscriptionProInverse.c09c730f1b038350f9ce77a407046467.svg",
+    "index.html": "/react-test/index.html",
+    "static/media/tuiIconTdsMediumHeartOutline.svg": "/react-test/static/media/tuiIconTdsMediumHeartOutline.96c838bf470267933723d6fe4297ed82.svg",
+    "static/media/tuiIconTdsMediumHeartFilled.svg": "/react-test/static/media/tuiIconTdsMediumHeartFilled.70db80cdbd944453672ab2af782a5f1c.svg",
+    "static/media/tuiIconTdsMediumShare2.svg": "/react-test/static/media/tuiIconTdsMediumShare2.ecf5d9593b81adaa73592b650abcc2a7.svg",
+    "static/media/tuiIconTdsSmallQuestion.svg": "/react-test/static/media/tuiIconTdsSmallQuestion.9aa64df55256dbc02d043c872d4e1df7.svg",
+    "static/media/tuiIconTdsMediumShare.svg": "/react-test/static/media/tuiIconTdsMediumShare.b5b208983462964502028c359b8adc89.svg",
+    "static/media/tuiIconTdsSmallInfo.svg": "/react-test/static/media/tuiIconTdsSmallInfo.a7d5af6a1780305ff5d344a8af102162.svg",
+    "static/media/tuiIconTdsSmallPragmaticCross.svg": "/react-test/static/media/tuiIconTdsSmallPragmaticCross.85efa22c916be27017db774193a217aa.svg",
+    "static/media/tuiIconTdsServiceCross.svg": "/react-test/static/media/tuiIconTdsServiceCross.2525cfaf045c7630992c1663329b8e99.svg",
+    "static/media/tuiIconTdsServiceChevronLeft.svg": "/react-test/static/media/tuiIconTdsServiceChevronLeft.cb8810c117357c82b69c047656727f16.svg",
+    "static/media/tuiIconTdsSmallPragmaticPlus.svg": "/react-test/static/media/tuiIconTdsSmallPragmaticPlus.c2630e7a529b42be8826cc9f93eb6c6f.svg",
+    "main.cfceb60c.css.map": "/react-test/static/css/main.cfceb60c.css.map",
+    "main.0de8f612.js.map": "/react-test/static/js/main.0de8f612.js.map",
+    "453.805be253.chunk.js.map": "/react-test/static/js/453.805be253.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cfceb60c.css",
-    "static/js/main.7c252ffc.js"
+    "static/js/main.0de8f612.js"
   ]
 }
